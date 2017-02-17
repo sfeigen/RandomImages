@@ -1,4 +1,4 @@
 # RandomImages
 
 ## Simple script that picks and sorts images at random from a directory of folders.
-## Creates new subdir that allow for tracking daily progress.
+## Creates new subdir that allows for tracking daily progress.
